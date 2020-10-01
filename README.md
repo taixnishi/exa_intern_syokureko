@@ -19,8 +19,12 @@
 **=>食事を管理/記録するアプリを作成する**
 
 ***
-(注)MongoDBを使用する際に環境変数を使用していますので、
-ローカルで動かす際は.envファイルをrootディレクトリに作成しMongoDBの環境変数を入力してください。
+(注)
+
+・MongoDBを使用する際に環境変数を使用していますので、ローカルで動かす際は.envファイルをrootディレクトリに作成しMongoDBの環境変数を入力してください。
+
+・簡単にアプリをご覧になるにはGlitchというwebサービスでこちらのURL(https://glitch.com/edit/#!/shadowed-dapper-bone?path=views%2Ffood.html%3A1%3A0)
+を開いてrimixをしていただくことでご覧いただけます。その際MongoDBの環境変数(.envファイル)にはご自身のものをお使いください。
 
 
 
