@@ -1,4 +1,5 @@
 # Exa インターン作品 毎日の食事を記録する Web アプリ「食レコ」
+URL: https://shadowed-dapper-bone.glitch.me/
 
 (株)exa の 5days インターン(デザインスプリント 1 日+JS 講義 2 日+開発 2 日)
 に参加して作成した web アプリケーションです。
